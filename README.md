@@ -4,7 +4,7 @@ The log.exe and log_v1.0.exe is a malware that will send screenshot of your pc e
 
 The log_v1.0 is an updated version of the original log.exe. This version adds a new feature to the malware, which prevents the user from manually killing the malware from the taskmanager. The victim has to use the terminal to kill the app.
 
-Both versions of the malware can not be killed by simply deleting it. Even though the malware might seem deleted the malware will still run and affect your computer.
+Both versions of the malware can not be killed by simply deleting. Even though the malware might seem deleted the malware will still run and affect your computer.
 
 Windows defender will not block the malware from being installed or stop it while its running.
 
