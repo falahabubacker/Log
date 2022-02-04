@@ -1,4 +1,4 @@
-# log app
+# log malware
 
 #### The log.exe and log_v1.1.exe is a malware that will send screenshot of your pc every 10secs to a cloud based storage.
 
